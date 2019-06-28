@@ -1,0 +1,6 @@
+# PHP STORM
+/.idea/**
+
+# COMPOSER
+composer.phar
+composer.lock

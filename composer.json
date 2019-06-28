@@ -1,0 +1,17 @@
+{
+  "name": "serhiime/cars-factory",
+  "description": "Just an example of correct test task for Dev-Pro.net",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Serhii Nekhaienko",
+      "email": "serhii.nekhaienko@dev-pro.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SerhiiMe\\Cars\\": "/src"
+    }
+  }
+}
